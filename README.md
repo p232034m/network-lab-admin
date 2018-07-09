@@ -1,1 +1,3 @@
-# network-lab-admin
+# slackbot
+
+作成したslackbotのソースコードを公開しています
