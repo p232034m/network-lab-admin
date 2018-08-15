@@ -1,3 +1,1 @@
-# slackbot
-
-作成したslackbotのソースコードを公開しています
+# Ryuの練習で使ったファイルとslackbotの共有
